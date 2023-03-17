@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Controls/DateComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcRGF0ZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Controls/TitleComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcVGl0bGVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,6 +38,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Pages/OrderEntryComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJFbnRyeUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Pages/SalesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2FsZXNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Pages/TeamComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhbUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Pages/TeamsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhbXNDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Shared/LoginDisplay.razor]

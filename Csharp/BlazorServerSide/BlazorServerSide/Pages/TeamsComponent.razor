@@ -1,0 +1,43 @@
+﻿@page "/teams"
+<TitleComponent Department="Teams"></TitleComponent>
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>Team</th>
+        <th>Region</th>
+    </tr>
+    @foreach (var team in teams)
+    {
+        <tr>
+            <td><a href="/team" class="nav-link">@team.Name</a></td>
+            <td>@team.Region</td>
+        </tr>
+    }
+</table>
+<br/>
+@*<input type="text" @bind-value="Color"/>*@
+
+@code {
+    private List<Team> teams;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        teams = new List<Team>();
+        teams.Add(new Team { Id = 1, Name = "Red", Region = "Region One" });
+        teams.Add(new Team { Id = 2, Name = "Blue", Region = "Region Two" });
+        teams.Add(new Team { Id = 3, Name = "Yellow", Region = "Region Three" });
+    }
+
+    #region View Model
+    public class Team
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Region { get; set; }
+    }
+    #endregion
+}
