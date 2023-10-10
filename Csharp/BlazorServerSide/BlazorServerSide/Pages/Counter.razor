@@ -2,9 +2,15 @@
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Counter</h1>
 
-<p role="status">Current count: @currentCount</p>
+<br/>
+<br/>
+<CascadingValue Name="Counter" Value="@currentCount">
+    <CascadingValue Name="TitleColour" Value="@("blue")">
+        <CounterComponentTest1></CounterComponentTest1>
+    </CascadingValue>
+</CascadingValue>
+
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 

@@ -11,7 +11,7 @@
     @foreach (var team in teams)
     {
         <tr>
-            <td><a href="/team" class="nav-link">@team.Name</a></td>
+            <td><a href="@($"/team/{team.Id}")" class="nav-link">@team.Name</a></td>
             <td>@team.Region</td>
         </tr>
     }

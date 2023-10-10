@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Controls/CounterComponentTest1.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcQ291bnRlckNvbXBvbmVudFRlc3QxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Controls/CounterComponentTest2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcQ291bnRlckNvbXBvbmVudFRlc3QyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/rioca/OneDrive/DataCamp/Csharp/BlazorServerSide/BlazorServerSide/Controls/DateComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHNcRGF0ZUNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
